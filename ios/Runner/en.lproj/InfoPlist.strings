@@ -1,0 +1,5 @@
+NSPhotoLibraryUsageDescription = "Permission for Media";
+LSSupportsOpeningDocumentsInPlace = "Access Storage";
+UIFileSharingEnabled = "Save into storage";
+NSMicrophoneUsageDescription = "App needs permisison to access the Microphone";
+PermissionGroupNotification = "App needs permisison to send Notification";

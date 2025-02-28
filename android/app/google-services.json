@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350246861189",
+    "project_id": "lynaapp-4cc6c",
+    "storage_bucket": "lynaapp-4cc6c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350246861189:android:5e67502710c9223c616cec",
+        "android_client_info": {
+          "package_name": "com.myperson.lyna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvIAA9SjNJwC9GdE70lJ9cIfnmQpUDs08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
